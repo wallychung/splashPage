@@ -10,5 +10,8 @@ height: 100%;
 margin: auto 0px;
 background-color: #000000;
 background: url(./images/thing.jpg) fixed center no-repeat;
+display: flex;
+align-items: center;
+justify-content: center;
 
 }
